@@ -56,9 +56,6 @@ Quick Start
    python -c "import win32com.client; print('pywin32 ok')"
 
 2. Launch Web Interface
-   $env:AWS_ACCESS_KEY_ID="AKIARM3JAK3JIVBNBVGL"
-   $env:AWS_SECRET_ACCESS_KEY="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"
-   $env:AWS_DEFAULT_REGION="us-east-2"
    streamlit run app.py
 
 ====================================
@@ -123,4 +120,5 @@ Developer Notes
 ====================================
 License
 ====================================
+
 MIT License — Use at your own risk, especially with programmatic email sending in Outlook.
